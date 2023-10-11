@@ -6,8 +6,7 @@
   Hinweise:
 */
 
-// Variablen und Konstanten vereinbaren 
-
+// das ist ein Test
 
 // eigene Funktionen
 
