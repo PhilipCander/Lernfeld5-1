@@ -2,7 +2,7 @@
   Beschreibung:
   Datum:
   Version:
-  Autor:
+  Autor: Philip, Serkan, Roman
   Hinweise:
 */
 
